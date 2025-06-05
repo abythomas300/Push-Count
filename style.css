@@ -5,7 +5,6 @@ body {
     font-family: 'Poppins', sans-serif;
     min-height: 100vh;
     background: linear-gradient(135deg, #000000, #4a4a4a, #dcdcdc);
-
     display: flex;
     justify-content: center;
     align-items: center;
@@ -29,6 +28,7 @@ body {
     align-items: center;
     margin: 1rem; /* for breathing room on smaller screens */
     background-image: url(assets/images/David-Laid-BW.jpg);
+    background-repeat: no-repeat;
 }
 .overlay {
     position: absolute;
@@ -51,12 +51,12 @@ body {
     width: 100%;
     background: rgba(58, 58, 58, 0.3); /* semi-transparent */
     border-radius: 20px;
-    padding-top: 10rem;
-    padding-bottom: 10rem;
+    padding-top: 5rem;
+    padding-bottom: 5rem;
     padding-left: 2rem;
     padding-right: 2rem;
     text-align: center;
-    backdrop-filter: blur(60px); /* frosted glass effect */
+    backdrop-filter: blur(90px); /* frosted glass effect */
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.4);
     color: #fff;
     width: 100%;
