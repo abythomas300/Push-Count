@@ -51,7 +51,10 @@ body {
     width: 100%;
     background: rgba(58, 58, 58, 0.3); /* semi-transparent */
     border-radius: 20px;
-    padding: 2rem;
+    padding-top: 10rem;
+    padding-bottom: 10rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
     text-align: center;
     backdrop-filter: blur(60px); /* frosted glass effect */
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.4);
