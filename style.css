@@ -28,7 +28,7 @@ body {
     justify-content: center;
     align-items: center;
     margin: 1rem; /* for breathing room on smaller screens */
-    background-image: url(David-Laid-BW.jpg);
+    background-image: url(assets/images/David-Laid-BW.jpg);
 }
 .overlay {
     position: absolute;
