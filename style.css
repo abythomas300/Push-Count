@@ -55,7 +55,7 @@ body {
     padding-left: 2rem;
     padding-right: 2rem;
     text-align: center;
-    backdrop-filter: blur(30px); /* frosted glass effect */
+    backdrop-filter: blur(100px); /* frosted glass effect */
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.4);
     color: #fff;
     width: 100%;
@@ -117,7 +117,7 @@ button {
 /* To handle responsiveness for smaller devices */
 @media (max-width: 400px) {
     .container {
-        backdrop-filter: blur(30px);
+        backdrop-filter: blur(100px);
         background: rgba(58, 58, 58, 0.3);
     }
     .phone-frame {
