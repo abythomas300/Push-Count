@@ -20,7 +20,7 @@ body {
     border-radius: 30px;
     box-shadow: 0 10px 50px rgba(0, 0, 0, 0.7);
     position: relative;
-    overflow: hidden;                   /* Clip the blur to the border radius */
+    overflow: hidden;                                       /* Clip the blur to the border radius */
     padding: 2rem;
     display: flex;
     justify-content: center;
@@ -28,8 +28,8 @@ body {
     margin: 1rem;
     background-image: url(assets/images/David-Laid-BW.jpg);
     background-repeat: no-repeat;
-    background-size: cover;              /*To fill background image the entire container */
-    background-position: center;         /* To center backgroud image  */
+    background-size: cover;                                 /* To fill background image the entire container */
+    background-position: center;                            /* To center backgroud image  */
 }
 
 .blurred-bg {
@@ -62,7 +62,7 @@ body {
     background: #3a3a3a;
     padding: 2rem;
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.4);
-    background: rgba(58, 58, 58, 0.3); /* semi-transparent */
+    background: rgba(58, 58, 58, 0.3);                        /* semi-transparent */
     border-radius: 20px;
     padding-top: 5rem;
     padding-bottom: 5rem;
@@ -72,7 +72,7 @@ body {
     color: #fff;
     width: 100%;
     position: relative;
-    z-index: 2;                        /* To make it above blurred layer */
+    z-index: 2;                                                 /* To make it above blurred layer */
     color: white;
 }
 
