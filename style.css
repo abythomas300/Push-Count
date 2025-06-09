@@ -55,7 +55,7 @@ body {
     padding-left: 2rem;
     padding-right: 2rem;
     text-align: center;
-    backdrop-filter: blur(90px); /* frosted glass effect */
+    backdrop-filter: blur(30px); /* frosted glass effect */
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.4);
     color: #fff;
     width: 100%;
