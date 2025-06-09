@@ -117,7 +117,7 @@ button {
 /* To handle responsiveness for smaller devices */
 @media (max-width: 400px) {
     .container {
-        backdrop-filter: blur(90px);
+        backdrop-filter: blur(30px);
         background: rgba(58, 58, 58, 0.3);
     }
     .phone-frame {
