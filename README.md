@@ -17,7 +17,7 @@ A sleek and responsive push-up counter app designed to help you track your worko
 
 ## Gradient Background
 
-The app uses a subtle, powerful gradient to set the mood
+The app uses a subtle, powerful gradient to set the mood.
 
 ## Future Improvements
 
